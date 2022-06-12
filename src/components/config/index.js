@@ -1,0 +1,1 @@
+export const baseURL = "https://client-crud-assessment.herokuapp.com/api";
